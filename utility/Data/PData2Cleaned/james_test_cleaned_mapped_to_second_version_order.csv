@@ -1,0 +1,152 @@
+participant_id,trial_kind,stimulus_file,boundary_times_sec,boundary_count,confidence_rating,pair_number,condition,block,video_code_second_version,pair_number_second_version,included_in_new_version
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,demo_video,garden_v1.mp4,"[4.112345,9.488474,14.091127,19.0481,22.239306,25.220762,31.245586,35.360001]",8.0,,,1,,,,False
+101,,,,,,,1,,,,False
+101,demo_feedback,,,,,,1,,,,False
+101,demo_video,getting_ready_v1.mp4,"[11.18641,14.29951,18.786508,31.726124]",4.0,,,1,,,,False
+101,,,,,,,1,,,,False
+101,demo_feedback,,,,,,1,,,,False
+101,demo_video,garden_v2.mp4,"[43.349313,3.080599,43.349313,10.578098,43.349313,19.185371,43.349313,24.447829,43.349313,32.574194]",10.0,,,1,,,,False
+101,,,,,,,1,,,,False
+101,demo_feedback,,,,,,1,,,,False
+101,demo_video,getting_ready_v2.mp4,"[43.349313,35.413313,14.373243,43.349313,35.413313,21.588806,43.349313,35.413313,34.607251]",9.0,,,1,,,,False
+101,,,,,,,1,,,,False
+101,demo_feedback,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,segmentation_video,baking_v1.mp4,"[9.971761,22.071182]",2.0,,1.0,1,1.0,P1,1.0,True
+101,confidence_question,,,,Neutral,1.0,1,1.0,,,False
+101,segmentation_video,balcony_v2.mp4,"[5.004288,8.646857,23.230931]",3.0,,2.0,1,1.0,U2,2.0,True
+101,confidence_question,,,,Moderately confident,2.0,1,1.0,,,False
+101,segmentation_video,bank_v2.mp4,"[5.067333,12.615154,18.131498]",3.0,,3.0,1,1.0,U3,3.0,True
+101,confidence_question,,,,Moderately confident,3.0,1,1.0,,,False
+101,segmentation_video,bathroom_v1.mp4,"[4.61325,6.821552,8.559325,15.67109,16.882819,25.140939,28.853641,33.90009]",8.0,,4.0,1,1.0,P4,4.0,True
+101,confidence_question,,,,Moderately confident,4.0,1,1.0,,,False
+101,segmentation_video,bedding_v2.mp4,"[7.199029,10.939902,18.682664,28.665433,31.897109,34.293159]",6.0,,6.0,1,1.0,U6,6.0,True
+101,confidence_question,,,,Moderately confident,6.0,1,1.0,,,False
+101,segmentation_video,bike_v1.mp4,"[12.064832,16.695456,22.031104,28.690996]",4.0,,7.0,1,1.0,P7,7.0,True
+101,confidence_question,,,,Very confident,7.0,1,1.0,,,False
+101,segmentation_video,beach_v2.mp4,"[8.682208,18.687693,21.656325,23.695126]",4.0,,5.0,1,1.0,U5,5.0,True
+101,confidence_question,,,,Moderately confident,5.0,1,1.0,,,False
+101,segmentation_video,car_v2.mp4,"[8.303228,10.913787,15.252158,21.19354,27.458364,31.189841,37.776589]",7.0,,8.0,1,1.0,U8,8.0,True
+101,confidence_question,,,,Neutral,8.0,1,1.0,,,False
+101,segmentation_video,cereal_v1.mp4,"[2.100522,14.030889,21.525115,28.969461,33.080073]",5.0,,9.0,1,1.0,P9,9.0,True
+101,confidence_question,,,,Very confident,9.0,1,1.0,,,False
+101,segmentation_video,cleaning_v1.mp4,"[4.063229,7.701943,11.045214,19.413118,29.667709]",5.0,,10.0,1,1.0,P10,10.0,True
+101,confidence_question,,,,Very confident,10.0,1,1.0,,,False
+101,segmentation_video,fireplace_v1.mp4,"[5.552858,8.117538,13.30953,19.007547,27.288136]",5.0,,11.0,1,1.0,P11,11.0,True
+101,confidence_question,,,,Moderately confident,11.0,1,1.0,,,False
+101,segmentation_video,football_v2.mp4,"[10.026744,21.685886,29.951804]",3.0,,12.0,1,1.0,U12,12.0,True
+101,confidence_question,,,,Moderately confident,12.0,1,1.0,,,False
+101,segmentation_video,gym_v1.mp4,"[4.539942,8.547377,13.641765,26.202652]",4.0,,13.0,1,1.0,P13,13.0,True
+101,confidence_question,,,,Moderately confident,13.0,1,1.0,,,False
+101,segmentation_video,lamp_v2.mp4,"[6.967036,15.071663,25.07633]",3.0,,14.0,1,1.0,U14,14.0,True
+101,confidence_question,,,,Moderately confident,14.0,1,1.0,,,False
+101,segmentation_video,laundry_v2.mp4,"[9.09354,25.000381,29.84238]",3.0,,15.0,1,1.0,U15,15.0,True
+101,confidence_question,,,,Moderately confident,15.0,1,1.0,,,False
+101,segmentation_video,library_v1.mp4,"[4.216828,15.744152]",2.0,,16.0,1,1.0,,,False
+101,confidence_question,,,,Neutral,16.0,1,1.0,,,False
+101,segmentation_video,mouse_v1.mp4,"[4.31446,8.669759,13.869567,24.84205,29.516744]",5.0,,17.0,1,1.0,P16,16.0,True
+101,confidence_question,,,,Moderately confident,17.0,1,1.0,,,False
+101,segmentation_video,music_v2.mp4,"[12.532801,22.232509,26.484899,33.522227,37.731167]",5.0,,18.0,1,1.0,U17,17.0,True
+101,confidence_question,,,,Very confident,18.0,1,1.0,,,False
+101,segmentation_video,painting_v2.mp4,"[7.573009,20.600658]",2.0,,19.0,1,1.0,U18,18.0,True
+101,confidence_question,,,,Moderately confident,19.0,1,1.0,,,False
+101,segmentation_video,party_v1.mp4,"[3.301958,14.539714,23.007524,32.159014]",4.0,,20.0,1,1.0,P19,19.0,True
+101,confidence_question,,,,Moderately confident,20.0,1,1.0,,,False
+101,segmentation_video,poster_v2.mp4,"[11.078585,16.674581,22.056654]",3.0,,21.0,1,1.0,U20,20.0,True
+101,confidence_question,,,,Neutral,21.0,1,1.0,,,False
+101,segmentation_video,printer_v1.mp4,"[4.830413,9.769885,15.598679,30.780806,40.711501]",5.0,,22.0,1,1.0,P21,21.0,True
+101,confidence_question,,,,Moderately confident,22.0,1,1.0,,,False
+101,segmentation_video,record_v1.mp4,"[5.9309,14.276256,18.312108]",3.0,,23.0,1,1.0,P22,22.0,True
+101,confidence_question,,,,Moderately confident,23.0,1,1.0,,,False
+101,segmentation_video,shopping_v1.mp4,[9.183885],1.0,,24.0,1,1.0,P23,23.0,True
+101,confidence_question,,,,Slightly unconfident,24.0,1,1.0,,,False
+101,segmentation_video,skateboard_v2.mp4,"[10.65181,16.448839,22.563395]",3.0,,25.0,1,1.0,U24,24.0,True
+101,confidence_question,,,,Neutral,25.0,1,1.0,,,False
+101,segmentation_video,suitcase_v2.mp4,"[7.404668,11.582933,15.763215,23.049139]",4.0,,26.0,1,1.0,U25,25.0,True
+101,confidence_question,,,,Slightly unconfident,26.0,1,1.0,,,False
+101,segmentation_video,sunbathing_v1.mp4,"[4.62846,16.754381,21.992613,31.742595,35.944411]",5.0,,27.0,1,1.0,P26,26.0,True
+101,confidence_question,,,,Moderately confident,27.0,1,1.0,,,False
+101,segmentation_video,tea_v1.mp4,"[9.473644,13.008308,19.992446,25.082694,28.845881]",5.0,,28.0,1,1.0,P27,27.0,True
+101,confidence_question,,,,Very confident,28.0,1,1.0,,,False
+101,segmentation_video,walking_v1.mp4,"[3.304318,10.929112,15.143822,19.616151]",4.0,,31.0,1,1.0,P29,29.0,True
+101,confidence_question,,,,Neutral,31.0,1,1.0,,,False
+101,segmentation_video,whiteboard_v2.mp4,"[6.467023,9.156003,13.030868,16.829138,21.533699,24.961504]",6.0,,32.0,1,1.0,U30,30.0,True
+101,confidence_question,,,,Slightly unconfident,32.0,1,1.0,,,False
+101,segmentation_video,tennis_v1.mp4,"[5.322733,10.381957,23.306511,28.771245]",4.0,,29.0,1,1.0,P28,28.0,True
+101,confidence_question,,,,Neutral,29.0,1,1.0,,,False
+101,segmentation_video,vending_v1.mp4,"[5.66548,17.66344,24.200118]",3.0,,30.0,1,1.0,,,False
+101,confidence_question,,,,Neutral,30.0,1,1.0,,,False
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False
+101,segmentation_video,baking_v2.mp4,"[5.160999,9.522616,19.748003]",3.0,,1.0,1,2.0,U1,1.0,True
+101,confidence_question,,,,Moderately confident,1.0,1,2.0,,,False
+101,segmentation_video,balcony_v1.mp4,"[7.423151,18.514397,23.455682]",3.0,,2.0,1,2.0,P2,2.0,True
+101,confidence_question,,,,Moderately confident,2.0,1,2.0,,,False
+101,segmentation_video,bank_v1.mp4,"[4.064413,10.712905,17.909157]",3.0,,3.0,1,2.0,P3,3.0,True
+101,confidence_question,,,,Moderately confident,3.0,1,2.0,,,False
+101,segmentation_video,bathroom_v2.mp4,"[3.572426,6.099961,9.1172,15.298667,22.117903,25.94035,28.471909]",7.0,,4.0,1,2.0,U4,4.0,True
+101,confidence_question,,,,Neutral,4.0,1,2.0,,,False
+101,segmentation_video,bedding_v1.mp4,"[8.046042,18.247075,26.299138,31.011771]",4.0,,6.0,1,2.0,P6,6.0,True
+101,confidence_question,,,,Moderately confident,6.0,1,2.0,,,False
+101,segmentation_video,bike_v2.mp4,"[12.235157,13.517552,19.449546]",3.0,,7.0,1,2.0,U7,7.0,True
+101,confidence_question,,,,Neutral,7.0,1,2.0,,,False
+101,segmentation_video,beach_v1.mp4,"[11.56749,22.050885]",2.0,,5.0,1,2.0,P5,5.0,True
+101,confidence_question,,,,Moderately confident,5.0,1,2.0,,,False
+101,segmentation_video,car_v1.mp4,"[3.807386,11.57723,21.410616,30.735398,38.670572]",5.0,,8.0,1,2.0,P8,8.0,True
+101,confidence_question,,,,Neutral,8.0,1,2.0,,,False
+101,segmentation_video,cereal_v2.mp4,"[1.856534,14.27997,23.238721,28.475018,33.440448,36.372361]",6.0,,9.0,1,2.0,U9,9.0,True
+101,confidence_question,,,,Very confident,9.0,1,2.0,,,False
+101,segmentation_video,cleaning_v2.mp4,"[3.615808,7.925342,11.668375,19.493138]",4.0,,10.0,1,2.0,U10,10.0,True
+101,confidence_question,,,,Neutral,10.0,1,2.0,,,False
+101,segmentation_video,fireplace_v2.mp4,"[4.208628,7.899201,13.689966,18.175252,25.798193]",5.0,,11.0,1,2.0,U11,11.0,True
+101,confidence_question,,,,Neutral,11.0,1,2.0,,,False
+101,segmentation_video,football_v1.mp4,"[2.64752,5.311956,9.684877,21.889581,31.834906]",5.0,,12.0,1,2.0,P12,12.0,True
+101,confidence_question,,,,Moderately confident,12.0,1,2.0,,,False
+101,segmentation_video,gym_v2.mp4,"[2.117097,4.736148,8.745702,18.606752,24.54518]",5.0,,13.0,1,2.0,U13,13.0,True
+101,confidence_question,,,,Very confident,13.0,1,2.0,,,False
+101,segmentation_video,lamp_v1.mp4,"[3.534857,7.023747,17.170031,24.886177,28.942491]",5.0,,14.0,1,2.0,P14,14.0,True
+101,confidence_question,,,,Slightly unconfident,14.0,1,2.0,,,False
+101,segmentation_video,laundry_v1.mp4,"[2.741846,13.82709,24.513697,29.398074]",4.0,,15.0,1,2.0,P15,15.0,True
+101,confidence_question,,,,Moderately confident,15.0,1,2.0,,,False
+101,segmentation_video,library_v2.mp4,"[4.308197,9.361048,15.992996]",3.0,,16.0,1,2.0,,,False
+101,confidence_question,,,,Moderately confident,16.0,1,2.0,,,False
+101,segmentation_video,mouse_v2.mp4,"[3.075459,8.312036,15.878117,25.19059]",4.0,,17.0,1,2.0,U16,16.0,True
+101,confidence_question,,,,Moderately confident,17.0,1,2.0,,,False
+101,segmentation_video,music_v1.mp4,"[2.35985,11.298364,18.635021,25.528989,34.420924]",5.0,,18.0,1,2.0,P17,17.0,True
+101,confidence_question,,,,Moderately confident,18.0,1,2.0,,,False
+101,segmentation_video,painting_v1.mp4,"[5.402167,13.328758,19.84682]",3.0,,19.0,1,2.0,P18,18.0,True
+101,confidence_question,,,,Slightly unconfident,19.0,1,2.0,,,False
+101,segmentation_video,party_v2.mp4,"[2.651755,13.587666,20.356418,31.939415]",4.0,,20.0,1,2.0,U19,19.0,True
+101,confidence_question,,,,Moderately confident,20.0,1,2.0,,,False
+101,segmentation_video,poster_v1.mp4,[12.396921],1.0,,21.0,1,2.0,P20,20.0,True
+101,confidence_question,,,,Very unconfident,21.0,1,2.0,,,False
+101,segmentation_video,printer_v2.mp4,"[4.680319,9.638342,23.347767,41.659594]",4.0,,22.0,1,2.0,U21,21.0,True
+101,confidence_question,,,,Slightly unconfident,22.0,1,2.0,,,False
+101,segmentation_video,record_v2.mp4,"[5.442843,9.429113,15.508869]",3.0,,23.0,1,2.0,U22,22.0,True
+101,confidence_question,,,,Moderately confident,23.0,1,2.0,,,False
+101,segmentation_video,shopping_v2.mp4,"[1.070279,6.744895,8.864343]",3.0,,24.0,1,2.0,U23,23.0,True
+101,confidence_question,,,,Slightly unconfident,24.0,1,2.0,,,False
+101,segmentation_video,skateboard_v1.mp4,"[5.304815,15.690149,20.39386,23.079789]",4.0,,25.0,1,2.0,P24,24.0,True
+101,confidence_question,,,,Neutral,25.0,1,2.0,,,False
+101,segmentation_video,suitcase_v1.mp4,"[4.416779,8.773897,16.042075,21.515707]",4.0,,26.0,1,2.0,P25,25.0,True
+101,confidence_question,,,,Slightly unconfident,26.0,1,2.0,,,False
+101,segmentation_video,sunbathing_v2.mp4,"[4.605265,12.759983,31.218052,35.586872]",4.0,,27.0,1,2.0,U26,26.0,True
+101,confidence_question,,,,Moderately confident,27.0,1,2.0,,,False
+101,segmentation_video,tea_v2.mp4,"[8.176066,12.907934,15.861497,20.542824,28.573958]",5.0,,28.0,1,2.0,U27,27.0,True
+101,confidence_question,,,,Moderately confident,28.0,1,2.0,,,False
+101,segmentation_video,walking_v2.mp4,"[5.898394,9.601153,15.039288,21.301514]",4.0,,31.0,1,2.0,U29,29.0,True
+101,confidence_question,,,,Neutral,31.0,1,2.0,,,False
+101,segmentation_video,whiteboard_v1.mp4,"[13.526792,18.215018,24.29149]",3.0,,32.0,1,2.0,P30,30.0,True
+101,confidence_question,,,,Moderately confident,32.0,1,2.0,,,False
+101,segmentation_video,tennis_v2.mp4,"[2.388921,4.66904,10.347363,15.551369,24.916803,28.524462]",6.0,,29.0,1,2.0,U28,28.0,True
+101,confidence_question,,,,Moderately confident,29.0,1,2.0,,,False
+101,segmentation_video,vending_v2.mp4,"[5.262567,9.178501,16.768418,22.827247]",4.0,,30.0,1,2.0,,,False
+101,confidence_question,,,,Neutral,30.0,1,2.0,,,False
+101,,,,,,,1,,,,False
+101,,,,,,,1,,,,False

@@ -1,0 +1,65 @@
+boundary_times_sec,stimulus_file,Boundary count,Confidence Rating,stimulus_name,predictability,old_video_code,old_pair_number,video_code_second_version,pair_number_second_version,included_in_new_version,block,global_position_in_block,participant_id
+"[3.719903,9.641575,18.21947,20.588331,22.209738,23.559322]",baking_v1.mp4,6.0,Moderately confident,baking,Predictable,P1,1,P1,1,True,2.0,1.0,6001
+"[4.112601,16.749636,19.930041,23.580853]",baking_v2.mp4,4.0,Moderately confident,baking,Unpredictable,U1,1,U1,1,True,1.0,1.0,6001
+"[7.195596,8.571405,22.038294,27.33818]",balcony_v1.mp4,4.0,Moderately confident,balcony,Predictable,P2,2,P2,2,True,2.0,2.0,6001
+"[2.148218,7.030174,8.922312,18.72335,24.746563]",balcony_v2.mp4,5.0,Slightly unconfident,balcony,Unpredictable,U2,2,U2,2,True,1.0,2.0,6001
+"[5.42126,8.150549,10.772005,13.901502,18.162588]",bank_v1.mp4,5.0,Neutral,bank,Predictable,P3,3,P3,3,True,2.0,3.0,6001
+"[5.237747,10.710444,12.282853,16.312696,18.057542]",bank_v2.mp4,5.0,Neutral,bank,Unpredictable,U3,3,U3,3,True,1.0,3.0,6001
+"[3.872521,6.377953,9.501004,14.732223,17.295881,22.961934,27.225831,33.678876]",bathroom_v1.mp4,8.0,Moderately confident,bathroom,Predictable,P4,4,P4,4,True,1.0,4.0,6001
+"[3.786855,7.363994,9.433749,15.133357,23.953312,28.581166,33.172776,34.525043]",bathroom_v2.mp4,8.0,Very confident,bathroom,Unpredictable,U4,4,U4,4,True,2.0,4.0,6001
+"[2.072616,5.069479,19.063691,25.94036]",beach_v1.mp4,4.0,Moderately confident,beach,Predictable,P5,5,P5,5,True,1.0,6.0,6001
+"[3.331033,6.433088,9.099538,11.949784,19.344343,22.794689,25.687968]",beach_v2.mp4,7.0,Neutral,beach,Unpredictable,U5,5,U5,5,True,2.0,6.0,6001
+"[5.498522,10.487635,23.053096,29.215566,32.218338]",bedding_v1.mp4,5.0,Very confident,bedding,Predictable,P6,6,P6,6,True,1.0,5.0,6001
+"[8.273327,23.299199,29.987791,32.165112]",bedding_v2.mp4,4.0,Neutral,bedding,Unpredictable,U6,6,U6,6,True,2.0,5.0,6001
+"[3.54577,8.190513,12.52105,16.769692,20.513273,28.842903]",bike_v1.mp4,6.0,Moderately confident,bike,Predictable,P7,7,P7,7,True,1.0,7.0,6001
+"[3.527095,10.725302,12.832835,17.509901,22.21116,28.734649]",bike_v2.mp4,6.0,Very confident,bike,Unpredictable,U7,7,U7,7,True,2.0,7.0,6001
+"[6.913532,14.361213,21.519724,30.605492,37.69079,38.788647]",car_v1.mp4,6.0,Very confident,car,Predictable,P8,8,P8,8,True,2.0,8.0,6001
+"[1.992887,9.376124,13.569619,17.862848,21.083356,29.85632,37.186937]",car_v2.mp4,7.0,Moderately confident,car,Unpredictable,U8,8,U8,8,True,1.0,8.0,6001
+"[2.774472,14.90321,23.048327,28.590209,31.982961,36.567222]",cereal_v1.mp4,6.0,Very confident,cereal,Predictable,P9,9,P9,9,True,1.0,9.0,6001
+"[3.415909,14.909046,23.990426,28.61966,32.983844]",cereal_v2.mp4,5.0,Very confident,cereal,Unpredictable,U9,9,U9,9,True,2.0,9.0,6001
+"[2.558038,7.075099,12.162618,19.396787,21.947557,22.581279,29.732398]",cleaning_v1.mp4,7.0,Very confident,cleaning,Predictable,P10,10,P10,10,True,1.0,10.0,6001
+"[3.217436,7.696706,11.785036,19.449814,29.635358]",cleaning_v2.mp4,5.0,Moderately confident,cleaning,Unpredictable,U10,10,U10,10,True,2.0,10.0,6001
+"[9.030537,14.248085,19.514705,26.083659]",fireplace_v1.mp4,4.0,Neutral,fireplace,Predictable,P11,11,P11,11,True,2.0,11.0,6001
+"[5.341771,13.885902,19.162566,27.926935]",fireplace_v2.mp4,4.0,Neutral,fireplace,Unpredictable,U11,11,U11,11,True,1.0,11.0,6001
+"[3.163555,6.970658,22.059822,31.644655]",football_v1.mp4,4.0,Moderately confident,football,Predictable,P12,12,P12,12,True,2.0,12.0,6001
+"[6.357931,9.583214,21.594106,31.600066]",football_v2.mp4,4.0,Moderately confident,football,Unpredictable,U12,12,U12,12,True,1.0,12.0,6001
+"[3.630792,7.861592,12.205397,17.410673,24.73675]",gym_v1.mp4,5.0,Very confident,gym,Predictable,P13,13,P13,13,True,1.0,13.0,6001
+"[4.216774,8.27857,12.395461,19.302909,21.937192,23.827461,27.446873]",gym_v2.mp4,7.0,Very confident,gym,Unpredictable,U13,13,U13,13,True,2.0,13.0,6001
+"[5.018621,5.775919,13.089416,22.807169,27.678615]",lamp_v1.mp4,5.0,Moderately confident,lamp,Predictable,P14,14,P14,14,True,2.0,14.0,6001
+"[5.659166,13.729097,22.624188]",lamp_v2.mp4,3.0,Moderately confident,lamp,Unpredictable,U14,14,U14,14,True,1.0,14.0,6001
+"[2.334814,5.134603,13.046799,26.113532,29.925543]",laundry_v1.mp4,5.0,Very confident,laundry,Predictable,P15,15,P15,15,True,2.0,15.0,6001
+"[11.72617,24.86501,29.61112]",laundry_v2.mp4,3.0,Moderately confident,laundry,Unpredictable,U15,15,U15,15,True,1.0,15.0,6001
+"[3.018787,6.720154,8.607711,13.107731,25.673543]",mouse_v1.mp4,5.0,Very confident,mouse,Predictable,P17,17,P16,16,True,2.0,17.0,6001
+"[2.817764,7.350443,9.463635,11.082855,19.594871,24.562184,27.06557]",mouse_v2.mp4,7.0,Moderately confident,mouse,Unpredictable,U17,17,U16,16,True,1.0,17.0,6001
+"[10.758008,18.411754,22.980873,24.510385,33.799936,37.253235]",music_v1.mp4,6.0,Very confident,music,Predictable,P18,18,P17,17,True,1.0,18.0,6001
+"[2.969106,11.990011,20.719274,26.02561,34.072543]",music_v2.mp4,5.0,Moderately confident,music,Unpredictable,U18,18,U17,17,True,2.0,18.0,6001
+"[4.09689,16.424953,20.007307,22.413455]",painting_v1.mp4,4.0,Moderately confident,painting,Predictable,P19,19,P18,18,True,1.0,19.0,6001
+"[2.931303,7.076333,16.430972,19.3464,23.779958]",painting_v2.mp4,5.0,Neutral,painting,Unpredictable,U19,19,U18,18,True,2.0,19.0,6001
+"[3.378622,10.710891,19.096052,23.568365,28.382568,30.504918]",party_v1.mp4,6.0,Very confident,party,Predictable,P20,20,P19,19,True,2.0,20.0,6001
+"[3.419379,10.576915,20.101732,23.510468,28.078549]",party_v2.mp4,5.0,Very confident,party,Unpredictable,U20,20,U19,19,True,1.0,20.0,6001
+"[4.694764,16.329034,22.178657]",poster_v1.mp4,3.0,Neutral,poster,Predictable,P21,21,P20,20,True,1.0,22.0,6001
+"[2.406681,6.016307,8.475675,13.502891,17.109365,22.507258]",poster_v2.mp4,6.0,Moderately confident,poster,Unpredictable,U21,21,U20,20,True,2.0,22.0,6001
+"[5.553592,9.38228,14.86276,25.197074,32.060473,40.25394,43.307453]",printer_v1.mp4,7.0,Very confident,printer,Predictable,P22,22,P21,21,True,2.0,24.0,6001
+"[6.626849,12.642732,23.529645,31.144553,39.410627,42.471833]",printer_v2.mp4,6.0,Neutral,printer,Unpredictable,U22,22,U21,21,True,1.0,24.0,6001
+"[4.272725,11.791934,15.211527]",record_v1.mp4,3.0,Moderately confident,record,Predictable,P23,23,P22,22,True,1.0,21.0,6001
+"[1.393688,2.198867,3.376106,10.076946,14.547935]",record_v2.mp4,5.0,Very unconfident,record,Unpredictable,U23,23,U22,22,True,2.0,21.0,6001
+"[4.534409,8.985927,11.217203]",shopping_v1.mp4,3.0,Slightly unconfident,shopping,Predictable,P24,24,P23,23,True,1.0,23.0,6001
+"[3.09178,5.024376,7.780619,9.602068,11.30854]",shopping_v2.mp4,5.0,Neutral,shopping,Unpredictable,U24,24,U23,23,True,2.0,23.0,6001
+"[10.170691,15.695068,20.886217,23.263338]",skateboard_v1.mp4,4.0,Moderately confident,skateboard,Predictable,P25,25,P24,24,True,1.0,25.0,6001
+"[4.488623,9.427695,16.894548,20.852878,23.272542]",skateboard_v2.mp4,5.0,Moderately confident,skateboard,Unpredictable,U25,25,U24,24,True,2.0,25.0,6001
+"[6.059217,9.627548,14.319532,18.090906,22.409061,26.244531]",suitcase_v1.mp4,6.0,Moderately confident,suitcase,Predictable,P26,26,P25,25,True,1.0,26.0,6001
+"[1.594861,3.18381,6.065067,9.843043,14.329604,18.463531,22.87603,26.237088]",suitcase_v2.mp4,8.0,Moderately confident,suitcase,Unpredictable,U26,26,U25,25,True,2.0,26.0,6001
+"[4.223432,9.858897,16.46763,21.807763,31.066234,32.844999,35.346144,38.582331]",sunbathing_v1.mp4,8.0,Moderately confident,sunbathing,Predictable,P27,27,P26,26,True,1.0,27.0,6001
+"[7.539623,12.246524,17.389035,22.665209,30.532889,33.278102,35.738327,38.730668]",sunbathing_v2.mp4,8.0,Very confident,sunbathing,Unpredictable,U27,27,U26,26,True,2.0,27.0,6001
+"[2.447426,6.619003,12.019141,19.737417,24.545528,27.552708,30.036479]",tea_v1.mp4,7.0,Very confident,tea,Predictable,P28,28,P27,27,True,2.0,28.0,6001
+"[6.708726,13.103821,19.849426,25.057003,27.323731,30.392223]",tea_v2.mp4,6.0,Very confident,tea,Unpredictable,U28,28,U27,27,True,1.0,28.0,6001
+"[4.92732,10.97098,17.303068,24.415547,29.114977]",tennis_v1.mp4,5.0,Moderately confident,tennis,Predictable,P29,29,P28,28,True,1.0,29.0,6001
+"[2.431377,4.965154,10.263056,15.953018,24.213673,28.888145]",tennis_v2.mp4,6.0,Neutral,tennis,Unpredictable,U29,29,U28,28,True,2.0,29.0,6001
+"[3.034512,8.13688,12.193698,19.796247]",walking_v1.mp4,4.0,Moderately confident,walking,Predictable,P31,31,P29,29,True,1.0,31.0,6001
+"[1.79432,10.308182,20.206779]",walking_v2.mp4,3.0,Slightly unconfident,walking,Unpredictable,U31,31,U29,29,True,2.0,31.0,6001
+"[13.034859,17.504869,24.110827,29.740692]",whiteboard_v1.mp4,4.0,Neutral,whiteboard,Predictable,P32,32,P30,30,True,2.0,32.0,6001
+"[8.88451,12.822397,18.003294,20.807538,23.624774,28.98571]",whiteboard_v2.mp4,6.0,Slightly unconfident,whiteboard,Unpredictable,U32,32,U30,30,True,1.0,32.0,6001
+"[9.859692,11.213392,14.268377,16.141426]",library_v1.mp4,4.0,Moderately confident,library,Predictable,P16,16,,,False,2.0,16.0,6001
+"[5.256391,7.281911,11.449361,13.619996,17.04494,23.338168]",vending_v1.mp4,6.0,Moderately confident,vending,Predictable,P30,30,,,False,2.0,30.0,6001
+"[1.991691,5.082878,13.07048,14.77798]",library_v2.mp4,4.0,Slightly unconfident,library,Unpredictable,U16,16,,,False,1.0,16.0,6001
+"[5.610525,7.523772,12.597879,17.661319,22.125563]",vending_v2.mp4,5.0,Moderately confident,vending,Unpredictable,U30,30,,,False,1.0,30.0,6001
